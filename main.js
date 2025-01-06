@@ -1,3 +1,3 @@
 let x = [1, 2, 3];
 
-let z = 
+let z = 'branch 1';
